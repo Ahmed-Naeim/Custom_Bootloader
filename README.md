@@ -28,6 +28,9 @@ To rigorously validate the custom bootloader, the following professional-grade t
 
 - **ST-Link Utility:** Applied for robust flashing and debugging of the STM32 microcontroller.
 
+- **Realterm (Serial Capture Program):**
+  - Used for capturing and analyzing serial communication, providing valuable insights during the validation process.
+
 - **[Keil M5 or STM32 Cube IDE or any other familiar IDE for Implementation]:** Choose your preferred integrated development environment for the meticulous implementation and testing of the custom bootloader.
 
 ## Acknowledgments
