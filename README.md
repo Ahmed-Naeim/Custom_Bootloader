@@ -34,7 +34,7 @@ To rigorously validate the custom bootloader, the following professional-grade t
 A sincere expression of gratitude to Eng. Ahmed Abelghafar for his invaluable guidance throughout this enriching journey. His insights played a pivotal role in shaping the outcomes of this project.
 
 ## Repository Link
-Explore the intricate implementation details and code in the [repository](#). [Replace with the actual repository link]
+Explore the intricate implementation details and code in the [[repository](https://github.com/Ahmed-Naeim/Custom_Bootloader)](#).
 
 ## Tags
 #EmbeddedSystems #STM32F103C8T6 #Bootloader #KernelMasters #LearningJourney #Microcontrollers #TechEnthusiast #AchievementUnlocked
