@@ -1,5 +1,4 @@
-# Custom_Bootloader
-# STM32F103C8T6 Bootloader Implementation
+# STM32F103C8T6 Customized Bootloader Implementation
 
 ## Introduction
 
