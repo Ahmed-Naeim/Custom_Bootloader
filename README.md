@@ -12,8 +12,35 @@ Throughout this undertaking, I meticulously devised and configured key commands 
 2. **Bootloader Get Help:**
    - Provides a comprehensive guide on available commands and their usage.
 
-[...and so on for other commands...]
+3. **Bootloader Get Chip Identification Number**
+   - Fetches the unique identification number of the STM32 chip.
 
+4. **Bootloader Read Protection Level**
+   - Reads the current flash memory protection level.
+
+5. **Bootloader Jump to Address**
+   - Initiates a jump to a specified memory address.
+
+6. **Bootloader Erase Flash**
+   - Erases the flash memory to prepare for new data.
+
+7. **Bootloader Memory Write**
+   - Writes data to the specified memory location.
+
+8. **Bootloader Enable Read/Write Protection**
+   - Enables read/write protection for secure memory areas.
+
+9. **Bootloader Memory Read**
+   - Reads data from a specified memory location.
+
+10. **Bootloader Get Page Protection Status**
+    - Retrieves the protection status of memory pages.
+
+11. **Bootloader Read OTP**
+    - Reads the One-Time Programmable (OTP) memory.
+
+12. **Bootloader Change Read Protection Level**
+    - Changes read protection for secure memory areas.
 These commands augment functionality and control for the STM32F103C8T6 microcontroller.
 
 ## Core Concepts Explored
