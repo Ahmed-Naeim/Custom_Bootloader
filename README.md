@@ -1,4 +1,4 @@
-# STM32F103C8T6 Bootloader Implementation
+# STM32F103C8T6 Customized Bootloader Implementation
 
 ## Introduction
 I am pleased to present the successful implementation of a bespoke bootloader for the STM32F103C8T6 microcontroller. This project aimed to address [briefly mention the motivation or goals].
